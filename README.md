@@ -6,9 +6,11 @@ It evaluates whether a package is **STANDARD**, **SPECIAL**, or **REJECTED**.
 
 ### Running the Script via Mac
 Ensure you have Python installed, and check the version:
-```terminal
+```
 python3 --version
+```
 
-Run script
-```terminal 
+Run script:
+```
 python sort_packages.py
+```
