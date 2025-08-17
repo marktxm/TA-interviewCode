@@ -5,9 +5,10 @@ This Python program determines how a package should be classified based on its d
 It evaluates whether a package is **STANDARD**, **SPECIAL**, or **REJECTED**.
 
 ### Running the Script via Mac
-Ensure you have Python installed, and check verson:
+Ensure you have Python installed, and check version:
+```bash
 python3 --version
 
 Run script
-```terminal 
+```bash 
 python sort_packages.py
